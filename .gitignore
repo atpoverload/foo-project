@@ -1,0 +1,8 @@
+*.o
+*.so
+*.class
+*.jar
+
+lib
+
+*.csv
